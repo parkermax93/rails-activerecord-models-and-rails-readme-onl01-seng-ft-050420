@@ -6,5 +6,3 @@ require 'rails_helper'
       expect(post).to be_valid
     end
   end
- 
-end
